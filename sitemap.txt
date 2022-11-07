@@ -1,3 +1,2 @@
-http://example.com/2022/11/07/ceshi/
-http://example.com/2022/11/05/hello-world/
+http://example.com/2022/11/07/%E7%BB%9F%E6%95%B0%E8%BE%A9%E4%BB%8B%E7%BB%8D/
 http://example.com/
