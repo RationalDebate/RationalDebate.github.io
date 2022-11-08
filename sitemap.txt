@@ -1,3 +1,4 @@
+http://example.com/%E6%B5%8B%E8%AF%95%E9%A1%B5/index.html
 http://example.com/categories/index.html
 http://example.com/2022/11/08/ceshi/
 http://example.com/2022/11/07/%E7%BB%9F%E6%95%B0%E8%BE%A9%E4%BB%8B%E7%BB%8D/
