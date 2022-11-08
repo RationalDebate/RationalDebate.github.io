@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-07T15:04:35.853Z</updated>
+  <updated>2022-11-08T08:44:24.858Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>ceshi</title>
+    <link href="http://example.com/2022/11/08/ceshi/"/>
+    <id>http://example.com/2022/11/08/ceshi/</id>
+    <published>2022-11-08T07:59:25.000Z</published>
+    <updated>2022-11-08T08:44:24.858Z</updated>
+    
+    
+    
+    
+    <category term="测试" scheme="http://example.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试标签1" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE1/"/>
+    
+    <category term="测试标签2" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>这里是-统计与数据科学学院辩论队</title>
     <link href="http://example.com/2022/11/07/%E7%BB%9F%E6%95%B0%E8%BE%A9%E4%BB%8B%E7%BB%8D/"/>
     <id>http://example.com/2022/11/07/%E7%BB%9F%E6%95%B0%E8%BE%A9%E4%BB%8B%E7%BB%8D/</id>
     <published>2022-11-07T09:04:07.000Z</published>
-    <updated>2022-11-07T15:04:35.853Z</updated>
+    <updated>2022-11-08T08:01:46.094Z</updated>
     
     <content type="html"><![CDATA[<blockquote></blockquote>]]></content>
     
@@ -33,6 +52,14 @@
     
     
     
+    <category term="介绍" scheme="http://example.com/categories/%E4%BB%8B%E7%BB%8D/"/>
+    
+    
+    <category term="测试标签1" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE1/"/>
+    
+    <category term="测试标签2" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE2/"/>
+    
+    <category term="测试标签3" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE3/"/>
     
   </entry>
   

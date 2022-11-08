@@ -1,2 +1,9 @@
+http://example.com/categories/index.html
+http://example.com/2022/11/08/ceshi/
 http://example.com/2022/11/07/%E7%BB%9F%E6%95%B0%E8%BE%A9%E4%BB%8B%E7%BB%8D/
 http://example.com/
+http://example.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE1/
+http://example.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE2/
+http://example.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE3/
+http://example.com/categories/%E4%BB%8B%E7%BB%8D/
+http://example.com/categories/%E6%B5%8B%E8%AF%95/
