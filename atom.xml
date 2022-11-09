@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-09T09:21:35.149Z</updated>
+  <updated>2022-11-09T09:37:25.021Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>统数辩第一次作业</title>
+    <link href="http://example.com/2022/11/09/%E7%BB%9F%E6%95%B0%E8%BE%A9%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/"/>
+    <id>http://example.com/2022/11/09/%E7%BB%9F%E6%95%B0%E8%BE%A9%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/</id>
+    <published>2022-11-09T09:34:15.000Z</published>
+    <updated>2022-11-09T09:37:25.021Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>一、观看周玄毅公开课第一课、第二课</p><p>二、据观看内容做两篇笔记，每篇不少于300字 笔记标好姓名于下周日24点前发到邮箱<a href="mailto:&#50;&#x39;&#x35;&#x39;&#x35;&#x34;&#56;&#x36;&#x35;&#50;&#64;&#x71;&#x71;&#x2e;&#x63;&#x6f;&#x6d;">&#50;&#x39;&#x35;&#x39;&#x35;&#x34;&#56;&#x36;&#x35;&#50;&#64;&#x71;&#x71;&#x2e;&#x63;&#x6f;&#x6d;</a></p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;&lt;p&gt;一、观看周玄毅公开课第一课、第二课&lt;/p&gt;
+&lt;p&gt;二、据观看内容做两篇笔记，每篇不少于300字 笔记标好姓名于下周日24点前发到邮箱&lt;a href=&quot;mailto:&amp;#50;&amp;#x39;&amp;#x35;&amp;#x39;&amp;#x35;&amp;#x34;&amp;#56;&amp;#x</summary>
+      
+    
+    
+    
+    <category term="作业" scheme="http://example.com/categories/%E4%BD%9C%E4%B8%9A/"/>
+    
+    
+    <category term="作业" scheme="http://example.com/tags/%E4%BD%9C%E4%B8%9A/"/>
+    
+    <category term="周玄毅" scheme="http://example.com/tags/%E5%91%A8%E7%8E%84%E6%AF%85/"/>
+    
+  </entry>
   
   <entry>
     <title>统计与数据科学学院辩论队问候在场各位！</title>
