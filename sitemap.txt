@@ -6,9 +6,9 @@ http://example.com/tag/index.html
 http://example.com/categories/index.html
 http://example.com/
 http://example.com/tags/4v4%E5%AE%89%E6%8E%92/
+http://example.com/tags/%E6%97%A5%E5%B8%B8/
 http://example.com/tags/%E4%BD%9C%E4%B8%9A/
 http://example.com/tags/%E5%91%A8%E7%8E%84%E6%AF%85/
-http://example.com/tags/%E6%97%A5%E5%B8%B8/
 http://example.com/categories/%E9%98%9F%E8%AE%AD/
-http://example.com/categories/%E7%90%86%E8%AE%BA%E4%BD%9C%E4%B8%9A/
 http://example.com/categories/%E6%97%A5%E5%B8%B8/
+http://example.com/categories/%E7%90%86%E8%AE%BA%E4%BD%9C%E4%B8%9A/
